@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               <img 
-                src="/src/assets/3D PNG.png" 
+                src="/images/logo.png" 
                 alt="Beauty Salon Logo" 
                 className="h-12 w-auto"
               />
@@ -111,4 +111,3 @@ const Footer = () => {
 };
 
 export default Footer;
-

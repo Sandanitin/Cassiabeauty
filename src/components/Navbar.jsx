@@ -33,7 +33,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <img 
-              src="/src/assets/3D PNG.png" 
+              src="/images/logo.png" 
               alt="Beauty Salon Logo" 
               className="h-12 w-auto"
             />
@@ -102,4 +102,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-
