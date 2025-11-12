@@ -88,8 +88,8 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <FaEnvelope className="text-pink-400" />
-                <a href="mailto:info@beautysalon.com" className="text-gray-300 hover:text-pink-400 transition-colors">
-                  info@beautysalon.com
+                <a href="mailto:cassiabeauty304@gmail.com" className="text-gray-300 hover:text-pink-400 transition-colors">
+                  cassiabeauty304@gmail.com
                 </a>
               </li>
               <li className="flex items-center space-x-3">

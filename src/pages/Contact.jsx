@@ -109,8 +109,8 @@ Message: ${formData.message}`;
                     <h3 className="text-lg font-semibold text-gray-900 mb-1">
                       Email Address
                     </h3>
-                    <a href="mailto:info@beautysalon.com" className="text-gray-600 hover:text-pink-600 transition-colors">
-                      info@beautysalon.com
+                    <a href="mailto:cassiabeauty304@gmail.com" className="text-gray-600 hover:text-pink-600 transition-colors">
+                      cassiabeauty304@gmail.com
                     </a>
                   </div>
                 </div>
