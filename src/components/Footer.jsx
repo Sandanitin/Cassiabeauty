@@ -15,7 +15,7 @@ const Footer = () => {
                 alt="Beauty Salon Logo" 
                 className="h-12 w-auto"
               />
-              <span className="text-2xl font-bold">Beauty Salon</span>
+              {/* <span className="text-2xl font-bold">Beauty Salon</span> */}
             </div>
             <p className="text-gray-300 text-sm">
               Professional beauty services to enhance your natural beauty. We offer threading, waxing, facials, and more.
